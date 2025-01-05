@@ -7,7 +7,7 @@
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 The **Attendance System Using Face Recognition** is a computer vision-based system that automates attendance tracking using facial recognition. It captures live video feeds from a camera, detects faces, and matches them with pre-registered faces to mark attendance. This project aims to provide a contactless and efficient way to manage attendance for institutions, workplaces, and events.
